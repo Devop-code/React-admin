@@ -2,19 +2,31 @@
     "User":[
         {
             "id": 1,
-            "name": "admin"
+            "name": "admin",
+            "email": "a@gmail.com",
+            "username":"devop",
+            "phone":"23456"
         },
         {
             "id": 2,
-            "name": "user"
+            "name": "user",
+            "email": "b@gmail.com",
+            "username":"devop1",
+            "phone":"2345789"
         },
         {
             "id": 3,
-            "name": "test1"
+            "name": "test1",
+            "email":"c@gmail.com",
+            "username":"devop2",
+            "phone":"2340089"
         },
         {
             "id": 4,
-            "name": "test2"
+            "name": "test2",
+            "email":"d@gmail.com",
+            "username":"devop3",
+            "phone":"17940089"
         }
     ],
     "Post":[
