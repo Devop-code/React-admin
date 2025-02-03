@@ -1,5 +1,5 @@
 {
-    "User":[
+    "users":[
         {
             "id": 1,
             "name": "admin",
@@ -29,7 +29,7 @@
             "phone":"17940089"
         }
     ],
-    "Post":[
+    "posts":[
         {
             "id": 1,
             "title": "Post 1",
